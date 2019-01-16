@@ -12,4 +12,4 @@ First bloody tears.
 
 [Тут можно послушать замечательный русский кавер на первый опенинг] (https://youtu.be/U-sd4mKcOXM) 
 
-! [А это главная героиня!] (https://img1.ak.crunchyroll.com/i/spire1/5601eec39026ea5dbf88fc35d9d6fb9f1516836642_full.jpg) 
+![А это главная героиня!] (https://img1.ak.crunchyroll.com/i/spire1/5601eec39026ea5dbf88fc35d9d6fb9f1516836642_full.jpg "Хора") 
